@@ -90,11 +90,8 @@ df = pd.DataFrame(dict_data)
 df
 
 
-# In[22]:
+# In[ ]:
 
 
-import numpy as np
-import pandas as pd
-df = pd.read_excel('dsn.xlsx')
-df
+
 
